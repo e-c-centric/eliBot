@@ -1,9 +1,3 @@
-'''Group members:
-Elikem Asudo Tsatsu Gale-Zoyiku (56042025)
-Marvellous Chapfura (60352025)
-Belinda Dzifa Esi Gasu (90762025)
-Bright Michael Gyau (79212025)
-'''
 #creating module called try_chatbot.
 #We will call functions and variables from this module in creating the GUI application
 bot_name='EliBot'
